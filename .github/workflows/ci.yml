@@ -1,11 +1,11 @@
+#2023-05-02 19:00
 name: Ventoy CI
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-  
+#  push:
+#    branches: [ master ]
+#  pull_request:
+#    branches: [ master ]
   workflow_dispatch:
 
 jobs:
